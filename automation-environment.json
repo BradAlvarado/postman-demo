@@ -1,0 +1,33 @@
+{
+	"id": "83af8efb-1583-4958-825d-a0d9cda27fc4",
+	"name": "automation-environment",
+	"values": [
+		{
+			"key": "protocol",
+			"value": "https",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "gorest.co.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "access",
+			"value": "public",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "version",
+			"value": "v2",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-11-08T18:41:07.666Z",
+	"_postman_exported_using": "Postman/10.19.17"
+}
